@@ -1,0 +1,27 @@
+h1{
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+#Saudacao {
+    font-size: 25px;
+    color: white;
+}
+
+body{
+    background-color: rgb(27, 27, 27);
+}
+
+
+.informacoes{
+    color: blue;   
+    border: 4px rgb(39, 37, 41) solid;
+}
+
+#tecnologias {
+    text-align: 40px;
+    color: white;
+}
