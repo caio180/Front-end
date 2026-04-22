@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    font: arial;
+    line-height: normal;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+.resposta {
+    color: white
+}
+.selecoes{
+    color: rgb(243, 243, 54);
+    font-weight: bold;
+}
+table {
+    background-color: white;
+    border-radius: 6px;
+    border: 2px solid black;
+}
+#cultura {
+    color: darkblue;
+}
+.paragrafos {
+    font-style: italic;
+}
+#comidas_tipi ul{
+    color: orange;
+    list-style-type: square;
+}
+.imagens {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 200px;
+}
+.imagens:hover {
+    border: 3px solid blue;
+}
