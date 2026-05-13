@@ -44,11 +44,6 @@ cd Fome no mundo
 
 * Basta abrir o arquivo **index.html** no navegador.
 
-
-### Objetivo do Projeto:
-
-* O objetivo deste projeto é desenvolver habilidades em estruturação de páginas web e estilização visual, além de apresentar informações importantes sobre a fome mundial e seus impactos sociais.
-
 ###  Desenvolvedor:
 
 **Caio Lima Viana**
