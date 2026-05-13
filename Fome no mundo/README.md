@@ -20,6 +20,7 @@ Ele foi desenvolvido com fins educacionais para praticar conceitos básicos de d
 O projeto foi construído utilizando:
 
  **HTML5** → responsável pela estrutura e conteúdo da página
+
  **CSS3** → responsável pela estilização e aparência visual
 
 ## Pré-requisitos
