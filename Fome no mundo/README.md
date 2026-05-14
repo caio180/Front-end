@@ -40,7 +40,7 @@ git clone https://github.com/caio180/Front-end.git
 cd Fome no mundo
 ```
 
-### 3 - Abra o arquivo HTML:
+### 3 - Abra a pasta do projeto:
 
 * Basta abrir o arquivo **index.html** no navegador.
 
